@@ -7,8 +7,8 @@ public class BasicPrintClass {
 		
 		int a = 5;
 		int b = 3;
-		int c=a+b;
-		System.out.println("sum of a + b : "+ c);
+		int d=a+b;
+		System.out.println("sum of a + b : "+ d);
 		
 	}
 	
